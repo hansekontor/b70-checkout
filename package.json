@@ -1,17 +1,17 @@
 {
-  "name": "b70",
+  "name": "b70-checkout",
   "version": "0.8.1",
-  "description": "BIP70 for bcoin",
+  "description": "BIP70 for checkout",
   "keywords": [
     "bip70",
     "payment",
     "protocol"
   ],
   "license": "MIT",
-  "repository": "git://github.com/bcoin-org/b70.git",
-  "homepage": "https://github.com/bcoin-org/b70",
+  "repository": "git://github.com/hansekontor/b70-checkout.git",
+  "homepage": "https://github.com/hansekontor/b70-checkout",
   "bugs": {
-    "url": "https://github.com/bcoin-org/b70/issues"
+    "url": "https://github.com/hansekontor/b70-checkout/issues"
   },
   "author": "Christopher Jeffrey <chjjeffrey@gmail.com>",
   "main": "./lib/b70.js",
