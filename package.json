@@ -20,7 +20,7 @@
     "test": "bmocha --reporter spec test/*-test.js"
   },
   "dependencies": {
-    "@hansekontor/checkout-components": "1.0.0",
+    "@hansekontor/checkout-components": "^1.0.1",
     "bsert": "~0.0.10",
     "bufio": "~1.0.6"
   },
